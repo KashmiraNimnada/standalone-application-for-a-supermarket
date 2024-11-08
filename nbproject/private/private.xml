@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/dao/custom/impl/ItemDaoImpl.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/dto/OrderDetailDto.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/dao/custom/ItemDao.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/dto/ItemDto.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/service/custom/OrderService.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/dao/SuperDao.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/entity/CustomerEntity.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/Main.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/dao/CrudDao.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/dao/CrudUtil.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/dao/custom/impl/OrderDaoImpl.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/dao/DaoFactory.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/view/ItemView.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/dto/CustomerDto.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/controller/ItemController.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/service/custom/ItemService.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/dao/custom/impl/OrderDetailDaoImpl.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/dao/custom/OrderDao.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/service/ServiceFactory.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/controller/OrderController.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/service/custom/CustomerService.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/entity/OrderEntity.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/entity/OrderDetailEntity.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/view/OrderView.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/dao/custom/impl/CustomerDaoImpl.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/service/custom/impl/CustomerServiceImpl.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/dto/OrderDto.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/service/custom/impl/OrderServiceImpl.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/controller/CustomerController.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/dao/custom/OrderDetailDao.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/entity/ItemEntity.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/dao/custom/CustomerDao.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/service/SuperService.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/db/DBConnection.java</file>
+            <file>file:/E:/CMJD%20106-Layared/src/edu/ijse/layered/service/custom/impl/ItemServiceImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
